@@ -6,6 +6,6 @@ The Participant will access the Algorithmia Youtube tutorial to assist in settin
 The Participant will use the adapted metric monitoring process included in the document (adapted from datadog docs).
 
 Resources include:
-Microsoft
-Datadog
+Microsoft,
+Datadog, and
 Algorithmia
